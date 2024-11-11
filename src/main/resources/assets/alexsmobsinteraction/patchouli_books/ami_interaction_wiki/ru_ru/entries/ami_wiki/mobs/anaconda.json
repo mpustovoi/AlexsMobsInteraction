@@ -13,6 +13,12 @@
       "images": [ "alexsmobsinteraction:textures/gui/book/custom_pages/mobs/anaconda/anaconda_cannibalize.png" ],
       "title": "Каннибализм анаконды",
       "text": "Крупные анаконды редко поедают анаконд, когда у них 10% здоровья или детёныши"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [ "alexsmobsinteraction:textures/gui/book/custom_pages/mobs/anaconda/orphaned_anaconda" ],
+      "title": "Осиротевшие анаконды",
+      "text": "Детёнышей анаконд бросают большие анаконды"
     }
   ]
 }
